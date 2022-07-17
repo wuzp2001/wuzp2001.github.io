@@ -6,7 +6,7 @@ email: wuzp2001@gmail.com
 description: "关于研究生阶段的学习记录 | 无与伦比的博客, WuZP Blog | 这里是 @WuZP吴章平 的个人博客，与你一起学习交流。"
 keyword: "吴章平, WuZP吴章平, WuZP, 武汉大学, 研究生, 摄影测量与遥感专业, 无与伦比的博客, WuZP Blog, 博客"
 url: "https://wuzp2001.github.io"              # your host, for absolute URL
-baseurl: "/_posts/"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
